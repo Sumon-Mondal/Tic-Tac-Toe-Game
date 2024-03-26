@@ -44,6 +44,6 @@ Contributions to this project are welcome! Whether you want to suggest new featu
 
 ## Credits
 
-This Tic Tac Toe game was developed by [Your Name]. Feel free to reach out with any questions or feedback.
+This Tic Tac Toe game was developed by [Sumon Mondal](https://www.linkedin.com/in/sumonmondal123/). Feel free to reach out with any questions or feedback.
 
 Thank you for choosing Tic Tac Toe. Let the games begin!
