@@ -33,7 +33,7 @@ Tic Tac Toe is a timeless game enjoyed by people of all ages. This Python implem
 To run the Tic Tac Toe game, ensure you have Python installed on your system. Additionally, you'll need to have the Tkinter library installed. If you don't have Tkinter installed, you can install it using the following command:
 
 ```
-pip install tk
+pip install tkinter
 ```
 
 Once you have Python and Tkinter installed, simply clone this repository to your local machine and run the `tic_tac_toe.py` script to launch the game.
